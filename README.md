@@ -1,4 +1,4 @@
-# **Desafio da DIO -Construindo esquema concenitual de uma Oficina mecanica**
+# **Desafio da DIO -Construindo esquema conceitual de uma Oficina mecanica**
 ### **Nome: Sistema de Controle e Gerenciamento de Ordens de Serviço – Oficina Mecânica**  
 
 ## **Descrição do Projeto**  
