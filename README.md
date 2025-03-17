@@ -48,4 +48,18 @@ O modelo foi estruturado com as seguintes entidades:
 
 ### **Arquivos no Repositório**  
 1. **Diagrama (PNG/PDF)** → Contém o modelo final do MER.  
-2. **README.md** (este arquivo) → Explicação do contexto, estrutura e funcionamento do modelo.  
+2. **README.md** (este arquivo) → Explicação do contexto, estrutura e funcionamento do modelo.
+ 
+---
+
+## **Como Utilizar**  
+
+1. Clone este repositório.  
+2. Abra o arquivo do diagrama (PNG/PDF) para visualizar o modelo entidade-relacionamento.  
+3. Consulte o `README.md` para entender a estrutura e as decisões de modelagem.  
+
+---
+
+## **Contribuições**  
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para sugerir melhorias ou correções.  
